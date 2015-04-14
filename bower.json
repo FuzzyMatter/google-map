@@ -3,7 +3,7 @@
   "version": "0.4.3",
   "homepage":"https://github.com/FuzzyMatter/google-map",
   "description": "Google Maps web components",
-  "main": "google-map.html",
+  "main": "https://github.com/FuzzyMatter/google-map.git",
   "authors": [
     "Frankie Fu <ffu@google.com>",
     "Scott Miles <sjmiles@google.com>",
